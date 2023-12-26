@@ -44,7 +44,7 @@ struct ContentView: View {
                     Text(result.imageLabel)
                     Spacer()
                     Text(
-                        String(format: "%.2f%", result.confidence * 100)
+                        String(format: "%.2f%%", result.confidence * 100)
                     )
                 }
             }

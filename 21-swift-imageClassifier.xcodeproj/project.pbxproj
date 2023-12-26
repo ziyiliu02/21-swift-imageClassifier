@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6489EF0D2B383EEC00BDF38F /* CatOrDog 1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 6489EF0C2B383EEC00BDF38F /* CatOrDog 1.mlmodel */; };
 		64A38D8D2B31203200C6BE99 /* _1_swift_imageClassifierApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64A38D8C2B31203200C6BE99 /* _1_swift_imageClassifierApp.swift */; };
 		64A38D8F2B31203200C6BE99 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64A38D8E2B31203200C6BE99 /* ContentView.swift */; };
 		64A38D912B31203400C6BE99 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 64A38D902B31203400C6BE99 /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6489EF0C2B383EEC00BDF38F /* CatOrDog 1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "CatOrDog 1.mlmodel"; sourceTree = "<group>"; };
 		64A38D892B31203200C6BE99 /* 21-swift-imageClassifier.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "21-swift-imageClassifier.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		64A38D8C2B31203200C6BE99 /* _1_swift_imageClassifierApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _1_swift_imageClassifierApp.swift; sourceTree = "<group>"; };
 		64A38D8E2B31203200C6BE99 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				64A38D902B31203400C6BE99 /* Assets.xcassets */,
 				64A38D9B2B3122FF00C6BE99 /* Constants.swift */,
 				64A38D9C2B31230100C6BE99 /* MobileNetV2.mlmodel */,
+				6489EF0C2B383EEC00BDF38F /* CatOrDog 1.mlmodel */,
 				64A38D9D2B31230100C6BE99 /* sample.json */,
 				64A38D922B31203400C6BE99 /* _1_swift_imageClassifier.entitlements */,
 				64A38D932B31203400C6BE99 /* Preview Content */,
@@ -159,6 +162,7 @@
 				64A38DA42B3136D100C6BE99 /* AnimalModel.swift in Sources */,
 				64A38D8D2B31203200C6BE99 /* _1_swift_imageClassifierApp.swift in Sources */,
 				64A38D9F2B31230100C6BE99 /* MobileNetV2.mlmodel in Sources */,
+				6489EF0D2B383EEC00BDF38F /* CatOrDog 1.mlmodel in Sources */,
 				64A38D9E2B31230100C6BE99 /* Constants.swift in Sources */,
 				64A38DA22B312AAF00C6BE99 /* Animal.swift in Sources */,
 			);
